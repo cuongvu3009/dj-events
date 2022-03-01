@@ -1,0 +1,64 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Throwback 90s party with DJ Duke, DJ Sync, and MC Max",
+      "slug": "throwback",
+      "venue": "Horizon club",
+      "address": "911 avenue, New York",
+      "performer": "DJ Duke,DJ Sync,  MC Max",
+      "date": "June 09, 2022",
+      "time": "10:00 PM EST",
+      "description": "Featuring deep cuts, party anthems and remix",
+      "image": "/images/sample/event1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Soul Kitchen Party",
+      "slug": "Soul-Kitchen-Part",
+      "venue": "Onyx Club",
+      "address": "60 Gramercy Park N #2 New York, New York(NY), 10010",
+      "performer": ["Nightmares ", "Rakim"],
+      "date": "July 16, 2022",
+      "time": "10:00 PM EST",
+      "description": "Dope party which features Hip Hop legends, emerging artists and world-class turntablists",
+      "image": "/images/sample/event2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Boom Dance Festival Experience",
+      "slug": "Boom-Dance-Festival-Experience",
+      "venue": "Blackjacks",
+      "address": "966 Lexington Ave New York, New York(NY), 10021",
+      "performer": "DJ LUCK & MC NEAT",
+      "date": "June 09, 2022",
+      "time": "10:00 PM EST",
+      "description": "It's looking more and more like we will be seeing events return in the summer! To celebrate this we are arranging a festival experience to say good bye to lock down! We will also be celebrating the fact Zoom Dance is one year old!",
+      "image": "/images/sample/event3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Encore Night Boat Party",
+      "slug": "Encore-Night-Boat-Party",
+      "venue": "Encore club",
+      "address": "675 Water St New York, New York(NY), 10002",
+      "performer": "Bad Boy Bill",
+      "date": "June 09, 2022",
+      "time": "10:00 PM EST",
+      "description": "Who is ready to party? I mean in the middle of the water, a boat with good music and drinks. If thats you then you have made it to the right place.",
+      "image": "/images/sample/event4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Muzamil",
+      "slug": "Muzamil",
+      "venue": "Karachi club",
+      "address": "911 avenue, New York",
+      "performer": "DJ Duke",
+      "date": "June 09, 2022",
+      "time": "07:00 PM EST",
+      "description": "Featuring deep cuts, party anthems and remix",
+      "image": "/images/sample/event5.jpg"
+    }
+  ]
+}
